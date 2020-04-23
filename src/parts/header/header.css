@@ -1,0 +1,27 @@
+.header {
+    float: left;
+    width: 100%;
+}
+
+.headerRow {
+    position: absolute;
+    width: 1000px;
+    margin: 0 0 0 -500px;
+    left: 50%;
+
+}
+
+.left {
+    float: left;
+    width: 70%;
+}
+
+.right {
+    float: left;
+    width: 30%;
+}
+
+.middle {
+    float: left;
+    width: 40%;
+}
