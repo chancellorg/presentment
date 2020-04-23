@@ -4,11 +4,14 @@
 }
 
 .headerRow {
+    width: 1000px;
+}
+
+.headerRowX {
     position: absolute;
     width: 1000px;
     margin: 0 0 0 -500px;
     left: 50%;
-
 }
 
 .left {

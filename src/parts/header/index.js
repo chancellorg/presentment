@@ -4,7 +4,7 @@ export default class index extends React.Component{
     render() {
         return (
             <div className={"headerRow"}>
-                <div className={"header"}>sa
+                <div className={"header"}>
                     <p align={"center"}>
                         <h1>Invoice</h1>
                     </p>
@@ -47,6 +47,7 @@ export default class index extends React.Component{
                         </p>
                     </div>
                 </div>
+                .
             </div>
         )
     }

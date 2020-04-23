@@ -1,13 +1,14 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 import Header from "./parts/header"
+import InvoiceSpec from "./parts/invoicespecs"
 
 function App() {
   return (
-    <div className="App">
-      <Header></Header>
+    <div>
+        <Header></Header>
+        <InvoiceSpec></InvoiceSpec>
     </div>
+
   );
 }
 

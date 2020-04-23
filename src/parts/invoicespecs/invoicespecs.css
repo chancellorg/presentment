@@ -1,0 +1,21 @@
+.invoiceRow {
+    float: bottom;
+    width: 1000px;
+}
+
+.invoiceCell {
+    float: left;
+}
+
+.invoiceLeft {
+    width: 50%;
+}
+
+.invoiceRight {
+    width: 50%;
+}
+
+.boldText {
+
+
+}
