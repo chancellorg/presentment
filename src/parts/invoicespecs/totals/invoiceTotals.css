@@ -1,0 +1,17 @@
+.invoiceTotalsRow {
+    width: available;
+
+}
+
+.invoiceTotalCell {
+    float: left;
+    width: 50%;
+}
+
+.invoiceCellLeft {
+
+}
+
+.invoiceCellRight {
+
+}

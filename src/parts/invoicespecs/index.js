@@ -1,5 +1,6 @@
 import React from 'react';
 import "./invoicespecs.css"
+import Totals from "./totals"
 
 export default class index extends React.Component {
 
@@ -26,6 +27,7 @@ export default class index extends React.Component {
                         Enrollment changes not reflected on this invoice will be adjusted on your next invoice. <br/>
                     </p>
                     <p>
+                        <Totals/>
 
                     </p>
 
