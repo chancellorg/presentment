@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a990038-63d0-40c4-b9b3-f7bc938aef82" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/parts/invoicespecs/totals/invoiceTotals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parts/remittance/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parts/remittance/remittance.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/parts/invoicespecs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/parts/invoicespecs/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parts/invoicespecs/invoicespecs.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/parts/invoicespecs/invoicespecs.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/parts/invoicespecs/totals/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/parts/invoicespecs/totals/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +98,7 @@
       <workItem from="1587548288489" duration="8610000" />
       <workItem from="1587617981700" duration="1685000" />
       <workItem from="1587636922059" duration="5565000" />
-      <workItem from="1587677562597" duration="1231000" />
+      <workItem from="1587677562597" duration="5170000" />
     </task>
     <servers />
   </component>

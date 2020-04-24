@@ -1,0 +1,22 @@
+
+
+.remittanceRow {
+    width: 1000px;
+}
+
+.remittanceCell {
+    border: 1px solid black;
+    float: left;
+    width: 24%;
+    vertical-align: top;
+}
+
+.cell1 {
+    width: 30%;
+}
+
+.halfCell {
+    float: left;
+    width: 50%;
+}
+

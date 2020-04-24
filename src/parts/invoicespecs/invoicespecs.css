@@ -5,6 +5,10 @@
 
 .invoiceCell {
     float: left;
+    width: 50%;
+    vert-align: bottom;
+    max-height: available;
+    min-height: available;
 }
 
 .invoiceLeft {
@@ -13,9 +17,6 @@
 
 .invoiceRight {
     width: 50%;
-}
-
-.boldText {
-
 
 }
+
